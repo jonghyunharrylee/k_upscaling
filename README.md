@@ -5,4 +5,4 @@ Prepared by Young-Ho Seo and Harry Lee for a manuscript "Development of a reliab
 1. python code for K upscaling using a spectral approach
 1. python code for MODFLOW6 to simulate groundwater flow with anisotropic K tensors (using USGS Flopy). 
 
-The complete code with documentation will be uploaded soon.
+Documentation will be uploaded soon with user friendly code updates and notebook examples. 
